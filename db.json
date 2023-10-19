@@ -1,0 +1,103 @@
+{
+  "fires": [
+    {
+      "date": "September 9, 2011",
+      "name": "Bastrop County Complex",
+      "county": "Bastrop",
+      "acres": "34,068",
+      "homesLost": "1,673",
+      "image": "https://i.imgur.com/1XhaK7C.jpg",
+      "id": 1
+    },
+    {
+      "date": "May 11, 2014",
+      "name": "Double Diamond Fire",
+      "county": "Hutchinson",
+      "acres": "2,202",
+      "homesLost": "228",
+      "image": "https://i.imgur.com/MkDALx3.jpg",
+      "id": 2
+    },
+    {
+      "date": "April 9, 2011",
+      "name": "PK Complex",
+      "county": "Palo Pinto",
+      "acres": "126,734",
+      "homesLost": "168",
+      "image": "https://i.imgur.com/7yIsmLJ.jpg",
+      "id": 3
+    },
+    {
+      "date": "March 17, 2022",
+      "name": "Eastland Complex",
+      "county": "Eastland and Brown",
+      "acres": "54,513",
+      "homesLost": "158",
+      "image": "https://i.imgur.com/cVefdrd.jpg",
+      "id": 4
+    },
+    {
+      "date": "December 27,2005",
+      "name": "Cross Plains Fire",
+      "county": "Callahan",
+      "acres": "7,660",
+      "homesLost": "116",
+      "image": "https://i.imgur.com/v4FWGBR.jpg",
+      "id": 5
+    },
+    {
+      "date": "September 4, 2011",
+      "name": "Bear Creek Fire",
+      "county": "Cass",
+      "acres": "41,050",
+      "homesLost": "92",
+      "image": "https://i.imgur.com/2LN0AgD.jpg",
+      "id": 6
+    },
+    {
+      "date": "September 5, 2011",
+      "name": "Riley Road Fire",
+      "county": "Montgomery",
+      "acres": "19,960",
+      "homesLost": "73",
+      "image": "https://i.imgur.com/jbOVtpC.jpg",
+      "id": 7
+    },
+    {
+      "date": "April 9, 2009",
+      "name": "Montague County Complex",
+      "county": "Montague",
+      "acres": "31,419",
+      "homesLost": "69",
+      "image": "https://i.imgur.com/cLGSOnU.jpg",
+      "id": 8
+    },
+    {
+      "date": "September 4, 2011",
+      "name": "Pedernales Bend Fire",
+      "county": "Travis",
+      "acres": "6,500",
+      "homesLost": "67",
+      "image": "https://i.imgur.com/rG9qnup.jpg",
+      "id": 9
+    },
+    {
+      "date": "October 13, 2015",
+      "name": "Hidden Pines Fire",
+      "county": "Bastrop",
+      "acres": "4,582",
+      "homesLost": "64",
+      "image": "https://i.imgur.com/WPt2YVi.jpg",
+      "id": 10
+    },
+    {
+      "date": "",
+      "name": "",
+      "county": "",
+      "acres": "",
+      "homesLost": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
+      "id": 11
+    }
+  ]
+}
